@@ -18,6 +18,7 @@ public class Maventest1Application {
 	public void init() {
 		logger.info("Application Initiated......");
 		logger.info("Application stated..");
+		logger.info("New Commit to trigger jenkins job..");
 	}
 
 	public static void main(String[] args) {
